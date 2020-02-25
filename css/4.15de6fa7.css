@@ -1,0 +1,1 @@
+body.desktop .no-focus.q-focusable:focus .q-focus-helper,body.desktop .no-focus.q-hoverable:hover .q-focus-helper,body.ios .no-focus.q-hoverable:active .q-focus-helper{background:inherit;opacity:0}.no-focus.q-focus-helper{opacity:0;transition:unset}
